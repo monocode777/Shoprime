@@ -1,8 +1,7 @@
 # Shoprime - Aplicacion Movil de Ecommerce Premium
 
-<p align="center">
-  <img src="app/src/main/res/drawable/logo_shoprime.png" alt="Shoprime Logo" width="300">
-</p>
+<img width="1024" height="559" alt="shoprime" src="https://github.com/user-attachments/assets/b1946c2f-0505-46df-8ee4-c69aa9df5494" />
+
 
 ## Descripcion del Proyecto
 Shoprime es una plataforma de comercio electronico diseñada para dispositivos Android que redefine la experiencia de compra y venta. Enfocada en un segmento de mercado premium, la aplicacion combina una estetica visual sofisticada con funcionalidades avanzadas de interaccion entre usuarios.
