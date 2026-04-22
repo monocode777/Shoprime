@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Ultra Premium Palette based on Logo -->
+    <color name="primary_dark_blue">#0A1118</color> <!-- Deeper, richer blue -->
+    <color name="secondary_dark_blue">#16212E</color>
+    <color name="gold">#FFD700</color> <!-- Vibrant Gold -->
+    <color name="gold_darker">#B8860B</color> <!-- Richer shadow gold -->
+    <color name="gold_light">#FFF2B2</color> <!-- Bright highlight gold -->
+    <color name="background_card">#1C2A39</color>
+    <color name="background_gray">#1C2A39</color> <!-- Added back as alias to avoid linking errors -->
+    <color name="text_silver">#F0F0F0</color>
+    <color name="accent_gold">#FFDF00</color>
+</resources>

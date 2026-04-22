@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840766280824",
+    "project_id": "shoprime-e0b89",
+    "storage_bucket": "shoprime-e0b89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840766280824:android:fb07713fd0e06326e7898d",
+        "android_client_info": {
+          "package_name": "com.example.shoprime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQjjXZhqpkLJWqmU7TFbJoGzEJzXURFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
